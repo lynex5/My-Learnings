@@ -1,0 +1,1 @@
+Patterns will help for better understanding of the loops.

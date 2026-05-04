@@ -99,7 +99,7 @@ Bean-post-processor:
 There will be some works before the initalization of bean this will take care of it.
 
 to use this we want a hook meathod called registerShutDownHook() 
-
+-------------------------------------------------------------------------------------
 Bean-inheretance:
 
 By usin the parent tag we can achive the inherentence
